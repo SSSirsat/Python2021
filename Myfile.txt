@@ -1,0 +1,4 @@
+This is a new file lineThis is a sample text 
+This is another sample text 
+This is Third sample text 
+This is fourth sample text 
