@@ -1,2 +1,2 @@
 import os
-print("Your op erating system is ", os.name)  #posix
+print("Your operating system is ", os.name)  #posix
